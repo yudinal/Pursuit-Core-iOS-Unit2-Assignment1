@@ -74,8 +74,8 @@ For some extra reading on this subject, check out: http://nshipster.com/ibinspec
 ## Looking for a stretch?
 
 1. Create a game mode where the user can play against the computer. The user can select an option to "Play the Computer," which will make the user x and the computer o. After each move by the user, the computer will randomly pick an open space to put their o.
-1. Add some additional "Play the Computer" features: let the user decide who goes first, let the user decide which option they want to be (x or o), keep track of wins and losses agains the computer.
+1. Add some additional "Play the Computer" features: let the user decide who goes first, let the user decide which option they want to be (x or o), keep track of wins and losses against the computer.
 
 ## Big stretch!!!!
 
-1. Tic Tac Toe is a solved game. A ![solved game](https://github.com/joinpursuit/Pursuit-Core-iOS-Unit2-Assignment1) is one where the best possible move at any point can be determined. Implement the best possible move for the Computer's turns to make your game super-hard.
+1. Tic Tac Toe is a solved game. A [solved game](https://github.com/joinpursuit/Pursuit-Core-iOS-Unit2-Assignment1) is one where the best possible move at any point can be determined. Implement the best possible move for the Computer's turns to make your game super-hard.
