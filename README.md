@@ -7,7 +7,7 @@
 1. Complete the lab
 1. Push your changes to your Fork
 1. Submit a Pull Request back to the assignment repo
-1. Paste a link to of your Fork on Canvas and submit
+1. Paste a link of your Fork on Canvas and submit
 
 ## Tic Tac Toe: Player vs. Player
 ### Exercise
