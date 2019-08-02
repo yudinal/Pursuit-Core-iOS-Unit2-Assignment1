@@ -32,7 +32,7 @@ Magic in Action|Hooray!
 
 Alternatively, you can add images to your blue ```Assets.xcassets``` folder in the Project Navigator sidebar in case you're into that.
 
-Yup|Don't attempt this
+Yup|Some might not like this
 ---|---
 ![Smooth moves](Images/player-two-turn.png)|![Yay](Images/player-two-turn-1.png)
 
