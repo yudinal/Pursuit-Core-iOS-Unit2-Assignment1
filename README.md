@@ -41,7 +41,7 @@ Yup|Some might not like this
 
 1. You should use buttons for each square.
 1. There is probably an easier way to do things. Instead of control-dragging 9 different outlets and actions to your ```ViewController```, you can code your logic to take in which button is clicked. Or you can do 9 drags, whatever you want.
-1. You can add inspectable properties if you sub-class a button-- particular IBInspectable to keep track of rows and cols. This will help you keep track of which button is clicked. 
+1. You can add inspectable properties if you sub-class a button-- particular `IBInspectable` to keep track of rows and cols. This will help you keep track of which button is clicked. 
 
 In Editor|Identity Inspector|Attributes Inspector
 ---|---|---
