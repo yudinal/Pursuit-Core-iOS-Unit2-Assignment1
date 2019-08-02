@@ -17,13 +17,13 @@ For this assignment, you will be bringing Tic Tac Toe to life on your own.
 #### Requirements:
 
 Do worry about:
-1. Alternating turns. After a player has placed down an X, the next tap must be an O.
-1. Your layout must include a label to display whose turn it is and another label to keep count of the wins.
-1. You must include a reset button. This resets the game, of course.
-1. Win condition checking. 3-in-a-row means the game is over, so no more moves should be allowed until the reset button is tapped.
+1. Alternating turns: After a player has placed down an X, the next tap must be an O.
+1. Player turns: Your layout must include a label to display whose turn it is and another label to keep count of the wins.
+1. New game: You must include a reset button. This resets the game, of course.
+1. Win condition checking: a game is over when a player has marked 3-in-a-row. No other moves should be allowed until the reset button is tapped.
 
 Don't worry about:
-1. Don't worry too much about layout at the moment. You'll learn how to make your app pretty in a later project. See below for our ~lowered~ expectations.
+1. Don't worry too much about layout at the moment. You'll learn how to make your app much prettier in a later project. See below for our expectations.
 
 Magic in Action|Hooray!
 ---|---
